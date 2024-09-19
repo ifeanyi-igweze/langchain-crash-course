@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is 5 + 7?",
+    "options": "A) 10, B) 11, C) 12, D) 13",
+    "answer": "C) 12"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": "A) 10, B) 11, C) 12, D) 13",
+    "answer": "C) 12"
+  },
+  {
+    "question": "What is 8 * 9?",
+    "options": "A) 70, B) 72, C) 74, D) 76",
+    "answer": "B) 72"
+  },
+  {
+    "question": "What is 15 - 6?",
+    "options": "A) 7, B) 8, C) 9, D) 10",
+    "answer": "C) 9"
+  },
+  {
+    "question": "What is 81 / 9?",
+    "options": "A) 7, B) 8, C) 9, D) 10",
+    "answer": "C) 9"
+  },
+  {
+    "question": "What is the value of π (Pi) to 2 decimal places?",
+    "options": "A) 3.12, B) 3.14, C) 3.16, D) 3.18",
+    "answer": "B) 3.14"
+  },
+  {
+    "question": "What is 12 squared?",
+    "options": "A) 120, B) 122, C) 144, D) 148",
+    "answer": "C) 144"
+  },
+  {
+    "question": "What is the result of 100 / 25?",
+    "options": "A) 2, B) 3, C) 4, D) 5",
+    "answer": "C) 4"
+  },
+  {
+    "question": "What is the value of 9 cubed?",
+    "options": "A) 720, B) 729, C) 748, D) 756",
+    "answer": "B) 729"
+  },
+  {
+    "question": "What is 45% of 200?",
+    "options": "A) 80, B) 85, C) 90, D) 95",
+    "answer": "C) 90"
+  },
+  {
+    "question": "What is the least common multiple (LCM) of 4 and 6?",
+    "options": "A) 8, B) 10, C) 12, D) 15",
+    "answer": "C) 12"
+  },
+  {
+    "question": "What is the derivative of x^2?",
+    "options": "A) 2x, B) 3x, C) x^2, D) 2",
+    "answer": "A) 2x"
+  },
+  {
+    "question": "What is the integral of 1/x dx?",
+    "options": "A) ln|x| + C, B) 1/x, C) x, D) 1/x + C",
+    "answer": "A) ln|x| + C"
+  },
+  {
+    "question": "What is the sum of the first 10 prime numbers?",
+    "options": "A) 129, B) 159, C) 179, D) 200",
+    "answer": "C) 129"
+  },
+  {
+    "question": "What is the perimeter of a square with side length 5?",
+    "options": "A) 15, B) 20, C) 25, D) 30",
+    "answer": "C) 20"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 and height 5?",
+    "options": "A) 10, B) 15, C) 20, D) 25",
+    "answer": "B) 25"
+  },
+  {
+    "question": "What is the hypotenuse of a right triangle with sides 3 and 4?",
+    "options": "A) 4, B) 5, C) 6, D) 7",
+    "answer": "C) 5"
+  },
+  {
+    "question": "What is 2 to the power of 5?",
+    "options": "A) 16, B) 32, C) 64, D) 128",
+    "answer": "C) 32"
+  },
+  {
+    "question": "What is the factorial of 5?",
+    "options": "A) 100, B) 110, C) 120, D) 130",
+    "answer": "C) 120"
+  },
+  {
+    "question": "What is the mode of the data set {1, 2, 2, 3, 4, 4, 4, 5}?",
+    "options": "A) 2, B) 3, C) 4, D) 5",
+    "answer": "C) 4"
+  },
+  {
+    "question": "What is the median of the data set {1, 2, 3, 4, 5}?",
+    "options": "A) 2, B) 3, C) 4, D) 5",
+    "answer": "C) 3"
+  },
+  {
+    "question": "What is the standard deviation of the data set {1, 1, 1, 1, 1}?",
+    "options": "A) 0, B) 1, C) 2, D) 3",
+    "answer": "A) 0"
+  },
+  {
+    "question": "What is 7 + 8 * 0?",
+    "options": "A) 5, B) 6, C) 7, D) 8",
+    "answer": "A) 7"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "options": "A) cos(x), B) -sin(x), C) sin(x), D) cos(x)",
+    "answer": "A) cos(x)"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": "A) 90, B) 120, C) 180, D) 360",
+    "answer": "C) 180"
+  },
+  {
+    "question": "What is the value of log10(100)?",
+    "options": "A) 1, B) 2, C) 3, D) 4",
+    "answer": "B) 2"
+  },
+  {
+    "question": "What is the next number in the sequence 1, 1, 2, 3, 5, 8, ...?",
+    "options": "A) 10, B) 12, C) 13, D) 14",
+    "answer": "C) 13"
+  },
+  {
+    "question": "What is 5! (5 factorial)?",
+    "options": "A) 100, B) 120, C) 130, D) 150",
+    "answer": "B) 120"
+  },
+  {
+    "question": "What is the solution to the equation 2x - 4 = 10?",
+    "options": "A) 5, B) 6, C) 7, D) 8",
+    "answer": "B) 7"
+  },
+  {
+    "question": "What is the area of a circle with radius 7?",
+    "options": "A) 100, B) 120, C) 150, D) 154",
+    "answer": "D) 154"
+  }
+]

@@ -1,0 +1,31 @@
+question,options,answer
+What is 5 + 7?,"A) 10, B) 11, C) 12, D) 13",C) 12
+What is the square root of 144?,"A) 10, B) 11, C) 12, D) 13",C) 12
+What is 8 * 9?,"A) 70, B) 72, C) 74, D) 76",B) 72
+What is 15 - 6?,"A) 7, B) 8, C) 9, D) 10",C) 9
+What is 81 / 9?,"A) 7, B) 8, C) 9, D) 10",C) 9
+What is the value of π (Pi) to 2 decimal places?,"A) 3.12, B) 3.14, C) 3.16, D) 3.18",B) 3.14
+What is 12 squared?,"A) 120, B) 122, C) 144, D) 148",C) 144
+What is the result of 100 / 25?,"A) 2, B) 3, C) 4, D) 5",C) 4
+What is the value of 9 cubed?,"A) 720, B) 729, C) 748, D) 756",B) 729
+What is 45% of 200?,"A) 80, B) 85, C) 90, D) 95",C) 90
+What is the least common multiple (LCM) of 4 and 6?,"A) 8, B) 10, C) 12, D) 15",C) 12
+What is the derivative of x^2?,"A) 2x, B) 3x, C) x^2, D) 2",A) 2x
+What is the integral of 1/x dx?,"A) ln|x| + C, B) 1/x, C) x, D) 1/x + C",A) ln|x| + C
+What is the sum of the first 10 prime numbers?,"A) 129, B) 159, C) 179, D) 200",C) 129
+What is the perimeter of a square with side length 5?,"A) 15, B) 20, C) 25, D) 30",C) 20
+What is the area of a triangle with base 10 and height 5?,"A) 10, B) 15, C) 20, D) 25",B) 25
+What is the hypotenuse of a right triangle with sides 3 and 4?,"A) 4, B) 5, C) 6, D) 7",C) 5
+What is 2 to the power of 5?,"A) 16, B) 32, C) 64, D) 128",C) 32
+What is the factorial of 5?,"A) 100, B) 110, C) 120, D) 130",C) 120
+"What is the mode of the data set {1, 2, 2, 3, 4, 4, 4, 5}?","A) 2, B) 3, C) 4, D) 5",C) 4
+"What is the median of the data set {1, 2, 3, 4, 5}?","A) 2, B) 3, C) 4, D) 5",C) 3
+"What is the standard deviation of the data set {1, 1, 1, 1, 1}?","A) 0, B) 1, C) 2, D) 3",A) 0
+What is 7 + 8 * 0?,"A) 5, B) 6, C) 7, D) 8",A) 7
+What is the derivative of sin(x)?,"A) cos(x), B) -sin(x), C) sin(x), D) cos(x)",A) cos(x)
+What is the sum of the angles in a triangle?,"A) 90, B) 120, C) 180, D) 360",C) 180
+What is the value of log10(100)?,"A) 1, B) 2, C) 3, D) 4",B) 2
+"What is the next number in the sequence 1, 1, 2, 3, 5, 8, ...?","A) 10, B) 12, C) 13, D) 14",C) 13
+What is 5! (5 factorial)?,"A) 100, B) 120, C) 130, D) 150",B) 120
+What is the solution to the equation 2x - 4 = 10?,"A) 5, B) 6, C) 7, D) 8",B) 7
+What is the area of a circle with radius 7?,"A) 100, B) 120, C) 150, D) 154",D) 154
